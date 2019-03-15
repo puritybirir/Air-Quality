@@ -1,0 +1,19 @@
+{
+  "name": "air-quality",
+  "version": "1.0.0",
+  "description": "An interactive project where users will select an Indian city and have their local air quality displayed in cigarettes and particulate matter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puritybirir/Air-Quality.git"
+  },
+  "author": "Purity Birir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puritybirir/Air-Quality/issues"
+  },
+  "homepage": "https://github.com/puritybirir/Air-Quality#readme"
+}
