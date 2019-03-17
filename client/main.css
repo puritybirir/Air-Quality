@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.header{
+  background-color: #E3D0D8;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.mainContainer {
+  display: flex;
+  flex-direction: column
+}
+
+.parentContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.contentText{
+  font-family: Montserrat;
+  font-size: 15px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.5;
+  letter-spacing: 0.2px;
+  text-align: justify;
+}
